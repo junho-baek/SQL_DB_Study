@@ -1,0 +1,297 @@
+{
+  "main": {
+    "id": "58ee2fa48b9cdcef",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e2b2f2f4885597c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cfb820c4c580e8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.4 TablePlus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.4 TablePlus"
+            }
+          },
+          {
+            "id": "2b37aff2255a6d0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.2 Database Creation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.2 Database Creation"
+            }
+          },
+          {
+            "id": "74feb6d1c0d270c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 SQLite.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2 SQLite"
+            }
+          },
+          {
+            "id": "7fbafcef447c5253",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.4 INSERT INTO VALUES part Two.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.4 INSERT INTO VALUES part Two"
+            }
+          },
+          {
+            "id": "9815b46594dbd154",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DE 인수인계.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DE 인수인계"
+            }
+          },
+          {
+            "id": "240ed86cff497460",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.3 Beekeper Studio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.3 Beekeper Studio"
+            }
+          },
+          {
+            "id": "1d571ec39b09438c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4.1 Update Commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.1 Update Commands"
+            }
+          },
+          {
+            "id": "f1a197907d81ce02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13.2 pgAdmin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13.2 pgAdmin"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1bfc93b3bc23b882",
+    "type": "split",
+    "children": [
+      {
+        "id": "68fe022058f8189a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b5d4c7aaf76b4ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "902937b5508d0f61",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "b248fd2ddba2774e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c4f074e582f69ab9",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdcd8831b28f1ecb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "570a2944458eff85",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Welcome의 백링크"
+            }
+          },
+          {
+            "id": "4d71a3c069054feb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Welcome의 나가는 링크"
+            }
+          },
+          {
+            "id": "ab83cda86be0e4e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d528d90302bf4007",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Welcome 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "f1a197907d81ce02",
+  "lastOpenFiles": [
+    "13.1 Installation.md",
+    "13.2 pgAdmin.md",
+    "13.0 Introduction.md",
+    "4.13 HAVING Clause.md",
+    "4.10 LIMIT and OFFSET Clauses.md",
+    "4.11 GROUP BY Clause.md",
+    "4.12 GROUP BY Gotchas.md",
+    "4.9 ORDER BY Clause.md",
+    "4.8 SELECT CASE.md",
+    "4.7 WHERE Predicates.md",
+    "4.6 WHERE Clause.md",
+    "4.5 Movies Database.md",
+    "4.4 SELECT Expressions.md",
+    "4.1 Update Commands.md",
+    "4.2 SELECT Command.md",
+    "4.3 FROM Clause.md",
+    "2024-12-17.md",
+    "무제 파일.canvas",
+    "데이터베이스.md",
+    "4.2.md",
+    "무제 파일.md",
+    "4.0 Introduction.md",
+    "템플릿/템플릿 1.md",
+    "4 Data Manipulation Language.md",
+    "3.9 Primary Keys.md",
+    "2.3 Beekeper Studio.md",
+    "템플릿",
+    "3.8 Recap.md",
+    "database.db",
+    "asdf"
+  ]
+}
